@@ -16,4 +16,4 @@ style="display:inline;">
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Amooooongus;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
-</p>
+</p> 
