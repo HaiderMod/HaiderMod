@@ -29,6 +29,6 @@ style="display:inline;">
 
 <br clear='both'/>
 
-<img src="https://raw.githubusercontent.com/HaiderMod/HaiderMod/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kheireddinebou/kheireddinebou/output/snake.svg" alt="Snake animation" />
 <br/>
 
