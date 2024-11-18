@@ -15,7 +15,7 @@ style="display:inline;">
     </h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Amooooongus;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Amooooongus;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
 </p> 
 
 <br><br><br><br><br>
@@ -23,7 +23,7 @@ style="display:inline;">
 <div align="center">
   <a href="https://www.facebook.com/HAIDER.MOD"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=0966FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook logo" /></a>
   <a href="https://www.instagram.com/haider__mod"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" /></a>
-  <a href="https://www.linkedin.com/in/haider-mod/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" width="50" alt="LinkedIn logo" /></a>
+  <a href="https://www.linkedin.com/in/haider-mod/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
 </div>
 
 <br clear='both'/>
