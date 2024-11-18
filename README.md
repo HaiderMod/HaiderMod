@@ -18,6 +18,7 @@ style="display:inline;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Amooooongus;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p> 
 
+<br><br><br>
 <p align="center">
 <a href="https://www.linkedin.com/in/haider-mod/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
