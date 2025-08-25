@@ -10,12 +10,7 @@ width="30%"
 style="display:inline;">
 <br>
 <p align="center">
-    <h1 align="center">
-        &emsp;HaiderMod&emsp;
-    </h1>
-</p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Amooooongus;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Amooooongus;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
 </p> 
 
 <br><br><br><br><br>
