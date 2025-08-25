@@ -13,7 +13,7 @@ style="display:inline;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Amooooongus;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
 </p> 
 
-<br><br><br><br><br>
+<br><br><br>
 
 <img align="center" src="https://raw.githubusercontent.com/kheireddinebou/kheireddinebou/output/snake.svg" alt="Snake animation" />
 <br/>
